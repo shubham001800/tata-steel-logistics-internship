@@ -1,48 +1,78 @@
-# Tata Steel Logistics Internship Project
+# 🚛 Tata Steel Logistics Internship Project
 
-## Overview
+**Internship Duration:** June – August 2024  
+**Role:** Sr. Service Assistant Intern  
+**Department:** Logistics, Tata Steel  
 
-This project documents my work as a Sr. Service Assistant Intern at Tata Steel's Logistics Department from June to August 2024. The primary focus of the internship was on optimizing vehicle movement and improving turnaround time (TAT) through data-driven decision-making and cross-functional coordination.
+---
 
-## Objectives
+## 📌 Project Summary
 
-- Analyze vehicle movement data to identify peak usage periods.
-- Recommend strategies to improve resource allocation.
-- Reduce bottlenecks in the supply chain process.
-- Collaborate with cross-functional teams for shipment tracking enhancement.
-- Implement process improvements for TAT reduction.
+This repository showcases my work during a two-month internship at Tata Steel’s Logistics Department. The focus was to **optimize vehicle movement**, improve **Turnaround Time (TAT)**, and support decision-making through data and process insights.
 
-## Key Contributions
+---
 
-- 📊 **Data Analysis**: Collected and analyzed transport data to detect inefficiencies and congestion in vehicle flows.
-- 🚚 **Logistics Optimization**: Suggested changes in vehicle scheduling that led to smoother inbound and outbound logistics.
-- 🔁 **Process Improvement**: Helped achieve a **15% reduction in Turnaround Time (TAT)**.
-- 🤝 **Team Collaboration**: Worked with operations and IT teams to optimize tracking and visibility of shipments.
-- 🧠 **Problem Solving**: Identified bottlenecks and proposed data-backed solutions for better throughput.
+## 🎯 Objectives
 
-## Tools & Technologies Used
+- Analyze historical vehicle movement to identify peak usage patterns.
+- Recommend process changes for resource optimization.
+- Reduce bottlenecks in inbound/outbound logistics.
+- Enhance shipment tracking through team collaboration.
+- Implement measurable improvements in turnaround performance.
 
-- **MS Excel** – For data collection, pivot tables, and visualizations.
-- **SAP** – For shipment tracking and inventory visibility.
-- **Power BI** – Used for reporting KPIs and vehicle utilization.
-- **Lean Six Sigma Concepts** – Applied to assess and improve process flows.
+---
 
-## Skills Applied
+## 🚀 Key Contributions
 
-- Logistics & Supply Chain Management
-- Data-Driven Problem Solving
-- Communication & Team Collaboration
-- Turnaround Time Optimization
-- Operational Analysis
+- **Data-Driven Insights:** Identified inefficiencies in vehicle flows using transport data.
+- **TAT Improvement:** Supported process redesign that reduced average TAT by 15%.
+- **Scheduling Optimization:** Suggested tweaks in vehicle schedules to ease congestion.
+- **Cross-Functional Collaboration:** Worked with IT and Ops teams on visibility solutions.
+- **Process Enhancement:** Contributed to leaner workflows using Six Sigma principles.
 
-## Learning Outcomes
+---
 
-- Gained practical exposure to large-scale logistics operations.
-- Learned how to translate operational data into actionable insights.
-- Developed a deeper understanding of real-world supply chain dynamics.
+## 🛠️ Tools & Technologies
 
-## About Me
+- **MS Excel** – Data cleaning, pivoting, and trend visualizations  
+- **SAP** – Shipment and inventory tracking  
+- **Power BI** – KPI dashboards and reporting  
+- **Lean Six Sigma** – Applied for process streamlining  
 
-👋 Hi, I'm **Shubham Raj**, a recent MBA graduate in Operations & Supply Chain Management. I am passionate about using analytics and process optimization to drive efficiency in supply chains.
+---
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/shubham-raj-713678215)
+## 🧠 Skills Applied
+
+- Supply Chain Analysis  
+- Data Interpretation & Visualization  
+- Turnaround Time Optimization  
+- Stakeholder Communication  
+- Problem Solving in Operations  
+
+---
+
+## 📈 Key Takeaways
+
+- Real-world exposure to logistics operations at scale  
+- Hands-on experience turning raw data into meaningful insights  
+- Practical understanding of supply chain coordination challenges  
+
+---
+
+## 👨‍💼 About Me
+
+Hi, I’m **Shubham Raj**, an MBA graduate specializing in **Operations & Supply Chain Management**. I enjoy solving real-world problems through a mix of **data, teamwork, and continuous improvement**.
+
+📎 [LinkedIn – Connect with me](#) *(Insert your LinkedIn URL here)*
+
+---
+
+## 📂 Files Included
+
+- `SHUBHAM RAJ SIP FINAL REPORT.pdf` – Complete final internship report  
+- `SIP-Guidelines 2023-24.docx` – Reference format and structure guide  
+- `README.md` – Project overview  
+
+---
+
+> 📬 Feel free to explore the files and reach out for any collaboration or questions!
